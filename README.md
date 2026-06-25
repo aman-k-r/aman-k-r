@@ -107,15 +107,9 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aman-k-r&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-k-r&theme=tokyonight" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aman-k-r&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_title=false" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-k-r&theme=tokyonight&count_private=true" alt="GitHub Streak" height="165" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-k-r&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="165" />
-</p>
-
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aman-k-r&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
