@@ -126,4 +126,3 @@
 - Microsoft Certified: Azure AI Fundamentals
 - Microsoft Certified: Azure AI Apps and Agents Developer Associate
 
-<p align="center"><i>From <a href="https://github.com/aman-k-r">aman-k-r</a> - Building reliable backend systems, one commit at a time.</i></p>
