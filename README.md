@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Aman </h1>
 <h3 align="center">Backend Developer | Java - Spring Boot - Microservices - Cloud</h3>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aman-k-r.aman-k-r" alt="Profile Views" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aman-x/" target="_blank">
