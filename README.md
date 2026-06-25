@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Aman Kumar Raj</h1>
-<h3 align="center">Backend Developer | Java • Spring Boot • Microservices • Cloud</h3>
+<h1 align="center">Hi, I'm Aman </h1>
+<h3 align="center">Backend Developer | Java - Spring Boot - Microservices - Cloud</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aman-k-r&label=Profile%20Views&color=0e75b6&style=flat" alt="aman-k-r" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aman-k-r.aman-k-r" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -22,18 +22,18 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🔧 Backend Developer focused on building **scalable, production-ready systems** with Java
-- 🏗️ Experienced in designing **RESTful APIs**, **microservices**, and **event-driven architectures**
-- ☁️ Comfortable working across the **cloud-native** stack — containers, orchestration, and managed services
-- 🌱 Currently sharpening skills in **distributed systems** and **cloud AI tooling**
-- 💬 Ask me about Java, Spring Boot, system design, or databases
-- 📫 Reach me at **amankumarraj800@gmail.com**
+- Backend Developer focused on building scalable, production-ready systems with Java
+- Experienced in designing RESTful APIs, microservices, and event-driven architectures
+- Comfortable working across the cloud-native stack - containers, orchestration, and managed services
+- Currently sharpening skills in distributed systems and cloud AI tooling
+- Ask me about Java, Spring Boot, system design, or databases
+- Reach me at amankumarraj800@gmail.com
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 <p>
@@ -44,37 +44,71 @@
 **Backend & Frameworks**
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=buffer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lombok-CC0000?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+**Testing**
+<p>
+  <img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestNG-E34F26?style=for-the-badge&logo=testinglibrary&logoColor=white" />
 </p>
 
 **Databases & Caching**
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+**Messaging & Distributed Systems**
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 </p>
 
 **DevOps & Cloud**
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-4051B5?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
 </p>
 
-**Tools**
+**API & Documentation**
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+</p>
+
+**Monitoring & Observability**
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
+
+**Version Control & Tools**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aman-k-r&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
@@ -95,34 +129,13 @@
 
 ---
 
-### 🏆 Certifications
+### Certifications
 
-<p>
-  <img src="https://img.shields.io/badge/Claude%20Certified%20Architect%20–%20Foundation-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Certified%20AI%20Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Certified%20Azure%20Fundamentals-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Certified%20Azure%20AI%20Fundamentals-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Microsoft%20Certified%20Azure%20AI%20Apps%20%26%20Agents%20Developer%20Associate-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
-</p>
+- Claude Certified Architect - Foundation
+- AWS Certified AI Practitioner
+- AWS Certified Cloud Practitioner
+- Microsoft Certified: Azure Fundamentals
+- Microsoft Certified: Azure AI Fundamentals
+- Microsoft Certified: Azure AI Apps and Agents Developer Associate
 
-- 🏗️ **Claude Certified Architect – Foundation**
-- ☁️ **AWS Certified AI Practitioner**
-- ☁️ **AWS Certified Cloud Practitioner**
-- 🔷 **Microsoft Certified: Azure Fundamentals**
-- 🔷 **Microsoft Certified: Azure AI Fundamentals**
-- 🔷 **Microsoft Certified: [Azure AI Apps and Agents Developer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/)**
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aman-x/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/lcofaman/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
-  <a href="https://akode.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:amankumarraj800@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center"><i>⭐️ From <a href="https://github.com/aman-k-r">aman-k-r</a> — Building reliable backend systems, one commit at a time.</i></p>
+<p align="center"><i>From <a href="https://github.com/aman-k-r">aman-k-r</a> - Building reliable backend systems, one commit at a time.</i></p>
