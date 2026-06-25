@@ -115,9 +115,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-k-r&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aman-k-r&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aman-k-r&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
